@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+net.ninini.starter.redis.autoconfigure.conf.IRedisAutoConfiguration
+
+org.springframework.boot.autoconfigure.AutoConfigurationImportFilter=\
+net.ninini.starter.redis.autoconfigure.conf.IRedisAutoConfigureFilter
+
